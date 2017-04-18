@@ -1,0 +1,8 @@
+Separar
+FlowLayout : uno al lado del otro
+BorderLayout : nort, south, west, east, center
+GridLayout : (fila, columnas)
+
+JmenuBar
+Jmenu : botones de la barra
+JmenuItem : botones dentro de Jmenu
